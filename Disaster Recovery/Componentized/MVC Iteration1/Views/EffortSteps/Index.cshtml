@@ -1,0 +1,81 @@
+﻿@model IEnumerable<Data_Entities.ReferenceData.EffortSteps>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.EffortStepName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EffortStepDescription)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EffortStepSequence)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EffortID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EffortName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Added)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Updated)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Inactivated)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.IsActive)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.EffortStepName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.EffortStepDescription)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.EffortStepSequence)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.EffortID)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.EffortName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Added)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Updated)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Inactivated)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.IsActive)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.EffortStepID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.EffortStepID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.EffortStepID })
+        </td>
+    </tr>
+}
+
+</table>

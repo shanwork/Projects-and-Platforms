@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data Entities", "Data Entities\Data Entities.csproj", "{4E01C35A-1848-4F5B-A29A-C945AB4AD411}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC Iteration1", "..\MVC Iteration1\MVC Iteration1.csproj", "{3DDC3985-D2FF-4174-B625-E0A5FAC442E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E01C35A-1848-4F5B-A29A-C945AB4AD411}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E01C35A-1848-4F5B-A29A-C945AB4AD411}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E01C35A-1848-4F5B-A29A-C945AB4AD411}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E01C35A-1848-4F5B-A29A-C945AB4AD411}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DDC3985-D2FF-4174-B625-E0A5FAC442E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DDC3985-D2FF-4174-B625-E0A5FAC442E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DDC3985-D2FF-4174-B625-E0A5FAC442E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DDC3985-D2FF-4174-B625-E0A5FAC442E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,59 @@
+C:\Shantanu\CREATIONS\Disaster Coordination\Componentized\MVC Iteration1\bin\MVC Iteration1.dll.config
+C:\Shantanu\CREATIONS\Disaster Coordination\Componentized\MVC Iteration1\bin\MVC Iteration1.dll
+C:\Shantanu\CREATIONS\Disaster Coordination\Componentized\MVC Iteration1\bin\MVC Iteration1.pdb
+C:\Shantanu\CREATIONS\Disaster Coordination\Componentized\MVC Iteration1\bin\Antlr3.Runtime.dll
+C:\Shantanu\CREATIONS\Disaster Coordination\Componentized\MVC Iteration1\bin\Data Entities.dll
+C:\Shantanu\CREATIONS\Disaster Coordination\Componentized\MVC Iteration1\bin\EntityFramework.dll
+C:\Shantanu\CREATIONS\Disaster Coordination\Componentized\MVC Iteration1\bin\EntityFramework.SqlServer.dll
+C:\Shantanu\CREATIONS\Disaster Coordination\Componentized\MVC Iteration1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Shantanu\CREATIONS\Disaster Coordination\Componentized\MVC Iteration1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Shantanu\CREATIONS\Disaster Coordination\Componentized\MVC Iteration1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Shantanu\CREATIONS\Disaster Coordination\Componentized\MVC Iteration1\bin\Microsoft.Owin.dll
+C:\Shantanu\CREATIONS\Disaster Coordination\Componentized\MVC Iteration1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Shantanu\CREATIONS\Disaster Coordination\Componentized\MVC Iteration1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Shantanu\CREATIONS\Disaster Coordination\Componentized\MVC Iteration1\bin\Microsoft.Owin.Security.dll
+C:\Shantanu\CREATIONS\Disaster Coordination\Componentized\MVC Iteration1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Shantanu\CREATIONS\Disaster Coordination\Componentized\MVC Iteration1\bin\Microsoft.Owin.Security.Google.dll
+C:\Shantanu\CREATIONS\Disaster Coordination\Componentized\MVC Iteration1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Shantanu\CREATIONS\Disaster Coordination\Componentized\MVC Iteration1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Shantanu\CREATIONS\Disaster Coordination\Componentized\MVC Iteration1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Shantanu\CREATIONS\Disaster Coordination\Componentized\MVC Iteration1\bin\Microsoft.Web.Infrastructure.dll
+C:\Shantanu\CREATIONS\Disaster Coordination\Componentized\MVC Iteration1\bin\Newtonsoft.Json.dll
+C:\Shantanu\CREATIONS\Disaster Coordination\Componentized\MVC Iteration1\bin\Owin.dll
+C:\Shantanu\CREATIONS\Disaster Coordination\Componentized\MVC Iteration1\bin\System.Web.Helpers.dll
+C:\Shantanu\CREATIONS\Disaster Coordination\Componentized\MVC Iteration1\bin\System.Web.Mvc.dll
+C:\Shantanu\CREATIONS\Disaster Coordination\Componentized\MVC Iteration1\bin\System.Web.Optimization.dll
+C:\Shantanu\CREATIONS\Disaster Coordination\Componentized\MVC Iteration1\bin\System.Web.Razor.dll
+C:\Shantanu\CREATIONS\Disaster Coordination\Componentized\MVC Iteration1\bin\System.Web.WebPages.Deployment.dll
+C:\Shantanu\CREATIONS\Disaster Coordination\Componentized\MVC Iteration1\bin\System.Web.WebPages.dll
+C:\Shantanu\CREATIONS\Disaster Coordination\Componentized\MVC Iteration1\bin\System.Web.WebPages.Razor.dll
+C:\Shantanu\CREATIONS\Disaster Coordination\Componentized\MVC Iteration1\bin\WebGrease.dll
+C:\Shantanu\CREATIONS\Disaster Coordination\Componentized\MVC Iteration1\bin\Data Entities.pdb
+C:\Shantanu\CREATIONS\Disaster Coordination\Componentized\MVC Iteration1\bin\System.Web.Helpers.xml
+C:\Shantanu\CREATIONS\Disaster Coordination\Componentized\MVC Iteration1\bin\System.Web.Mvc.xml
+C:\Shantanu\CREATIONS\Disaster Coordination\Componentized\MVC Iteration1\bin\System.Web.Optimization.xml
+C:\Shantanu\CREATIONS\Disaster Coordination\Componentized\MVC Iteration1\bin\System.Web.Razor.xml
+C:\Shantanu\CREATIONS\Disaster Coordination\Componentized\MVC Iteration1\bin\System.Web.WebPages.xml
+C:\Shantanu\CREATIONS\Disaster Coordination\Componentized\MVC Iteration1\bin\System.Web.WebPages.Deployment.xml
+C:\Shantanu\CREATIONS\Disaster Coordination\Componentized\MVC Iteration1\bin\System.Web.WebPages.Razor.xml
+C:\Shantanu\CREATIONS\Disaster Coordination\Componentized\MVC Iteration1\bin\Antlr3.Runtime.pdb
+C:\Shantanu\CREATIONS\Disaster Coordination\Componentized\MVC Iteration1\bin\Newtonsoft.Json.xml
+C:\Shantanu\CREATIONS\Disaster Coordination\Componentized\MVC Iteration1\bin\EntityFramework.xml
+C:\Shantanu\CREATIONS\Disaster Coordination\Componentized\MVC Iteration1\bin\EntityFramework.SqlServer.xml
+C:\Shantanu\CREATIONS\Disaster Coordination\Componentized\MVC Iteration1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Shantanu\CREATIONS\Disaster Coordination\Componentized\MVC Iteration1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Shantanu\CREATIONS\Disaster Coordination\Componentized\MVC Iteration1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Shantanu\CREATIONS\Disaster Coordination\Componentized\MVC Iteration1\bin\Microsoft.Owin.xml
+C:\Shantanu\CREATIONS\Disaster Coordination\Componentized\MVC Iteration1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Shantanu\CREATIONS\Disaster Coordination\Componentized\MVC Iteration1\bin\Microsoft.Owin.Security.xml
+C:\Shantanu\CREATIONS\Disaster Coordination\Componentized\MVC Iteration1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Shantanu\CREATIONS\Disaster Coordination\Componentized\MVC Iteration1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Shantanu\CREATIONS\Disaster Coordination\Componentized\MVC Iteration1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Shantanu\CREATIONS\Disaster Coordination\Componentized\MVC Iteration1\bin\Microsoft.Owin.Security.Google.xml
+C:\Shantanu\CREATIONS\Disaster Coordination\Componentized\MVC Iteration1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Shantanu\CREATIONS\Disaster Coordination\Componentized\MVC Iteration1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Shantanu\CREATIONS\Disaster Coordination\Componentized\MVC Iteration1\obj\Debug\MVC Iteration1.csprojResolveAssemblyReference.cache
+C:\Shantanu\CREATIONS\Disaster Coordination\Componentized\MVC Iteration1\obj\Debug\MVC_Iteration1.Migrations.addEffortEFfortCategories.resources
+C:\Shantanu\CREATIONS\Disaster Coordination\Componentized\MVC Iteration1\obj\Debug\MVC Iteration1.csproj.GenerateResource.Cache
+C:\Shantanu\CREATIONS\Disaster Coordination\Componentized\MVC Iteration1\obj\Debug\MVC Iteration1.dll
+C:\Shantanu\CREATIONS\Disaster Coordination\Componentized\MVC Iteration1\obj\Debug\MVC Iteration1.pdb

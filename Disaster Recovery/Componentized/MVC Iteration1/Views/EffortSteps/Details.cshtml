@@ -1,0 +1,90 @@
+﻿@model Data_Entities.ReferenceData.EffortSteps
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>EffortSteps</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.EffortStepName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EffortStepName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EffortStepDescription)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EffortStepDescription)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EffortStepSequence)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EffortStepSequence)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EffortID)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EffortID)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EffortName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EffortName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Added)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Added)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Updated)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Updated)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Inactivated)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Inactivated)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.IsActive)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IsActive)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.EffortStepID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
